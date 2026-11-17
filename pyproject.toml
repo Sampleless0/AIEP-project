@@ -14,6 +14,7 @@ dependencies = [
     "torch==2.11.0+cu128",
     "torchvision==0.26.0+cu128",
     "matplotlib>=3.11.2",
+    "anomalib>=2.7.0",
 ]
 
 [project.scripts]
